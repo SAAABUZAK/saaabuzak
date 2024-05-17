@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=header&text=MinG%20KIM&desc=Front-end%20Developer&fontSize=50&fontAlign=80&descAlign=82&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header&text=MinG%20KIM&desc=Front-end%20Developer&fontSize=50&fontAlign=80&descAlign=82&descAlignY=80)
 <a href='hibabel1219@gmail.com'>![Static Badge](https://img.shields.io/badge/hibabel1219@gmail.com-FFFFFF?style=flat-square&logo=gmail&logoColor=EA4335)</a>
 <a href='https://saaabuzak.notion.site/Study-b28a0e257b7649818b57e0b380e5aeff'>![Static Badge](https://img.shields.io/badge/saaabuzak.notion-FFFFFF?style=flat-square&logo=notion&logoColor=000000)</a>
 <a href='https://leetcode.com/u/saaabuzak/'>![Static Badge](https://img.shields.io/badge/leetcode-FFFFFF?style=flat-square&logo=leetcode&logoColor=ffa116)</a>
@@ -18,3 +18,5 @@
 ![](https://img.shields.io/badge/_-notion-FFFFFF?style=flat-square&logo=notion&logoColor=000000)
 ![](https://img.shields.io/badge/_-Jira-0052CC?style=flat-square&logo=jira&logoColor=FFFFFF)<br/>
 <br/>
+<image src='https://github-readme-stats.vercel.app/api?username=saaabuzak&show_icons=true&theme=omni' height=180 />
+<image src='https://github-readme-stats.vercel.app/api/top-langs/?username=saaabuzak&show_icons=true&theme=omni&hide_border=true' height=180 />
