@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=header&text=MinG%20KIM&desc=Front-end%20Developer&fontSize=50&fontAlign=80&descAlign=82&descAlignY=80)
 <a href='hibabel1219@gmail.com'>![Static Badge](https://img.shields.io/badge/hibabel1219@gmail.com-FFFFFF?style=flat-square&logo=gmail&logoColor=EA4335)</a>
 <a href='https://saaabuzak.notion.site/Study-b28a0e257b7649818b57e0b380e5aeff'>![Static Badge](https://img.shields.io/badge/saaabuzak.notion-FFFFFF?style=flat-square&logo=notion&logoColor=000000)</a>
-<a href='[https://saaabuzak.notion.site/Study-b28a0e257b7649818b57e0b380e5aeff](https://leetcode.com/u/saaabuzak/)'>![Static Badge](https://img.shields.io/badge/leetcode-FFFFFF?style=flat-square&logo=leetcode&logoColor=ffa116)</a>
+<a href='https://leetcode.com/u/saaabuzak/'>![Static Badge](https://img.shields.io/badge/leetcode-FFFFFF?style=flat-square&logo=leetcode&logoColor=ffa116)</a>
 ---
 ![](https://img.shields.io/badge/_-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/_-node.js-5FA04E?style=flat-square&logo=node.js&logoColor=FFFFFF)
