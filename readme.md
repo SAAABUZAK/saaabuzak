@@ -18,5 +18,5 @@
 ![](https://img.shields.io/badge/_-notion-FFFFFF?style=flat-square&logo=notion&logoColor=000000)
 ![](https://img.shields.io/badge/_-Jira-0052CC?style=flat-square&logo=jira&logoColor=FFFFFF)<br/>
 <br/>
-<image src='https://github-readme-stats.vercel.app/api?username=saaabuzak&show_icons=true&theme=omni' height=180 />
-<image src='https://github-readme-stats.vercel.app/api/top-langs/?username=saaabuzak&show_icons=true&theme=omni&hide_border=true' height=180 />
+<image src='https://github-readme-stats.vercel.app/api?username=saaabuzak&show_icons=true&theme=omni' width=425 height=180 />
+<image src='https://github-readme-stats.vercel.app/api/top-langs/?username=saaabuzak&show_icons=true&theme=omni&hide_border=true' width=425 height=180 />
